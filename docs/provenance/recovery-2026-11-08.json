@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "recorded_date": "2026-11-08",
+  "timezone": "Europe/Moscow",
+  "purpose": "Recovery of all NEW GEN project material for GitHub handoff",
+  "github_repository": "getcher123/NEWGEN-animation",
+  "recovered_source": {
+    "provider": "Sites",
+    "project_id": "appgprj_6ae9d8fbc40481919f15fe3c8441aff6",
+    "source_commit": "56192123a0d23922caa999d2abe145d134769323",
+    "source_tree": "f6497fa45b875a28933c87542a7864e0d32b94f5",
+    "source_tracked_files": 946
+  },
+  "published_version": {
+    "version_number": 14,
+    "version_id": "appgprj_6ae9d8fbc40481919f15fe3c8441aff6~appgver_77bd6bb360e48191b4a6b9ae3f296801",
+    "commit_sha": "56192123a0d23922caa999d2abe145d134769323",
+    "deployment_id": "appgdep_6aee128617fc8191b02fee5529b4527a",
+    "status": "succeeded",
+    "url": "https://newgen-motion-review.vova1305.chatgpt.site",
+    "updated_at": "2026-11-06T17:47:08.101018+00:00",
+    "archive": {
+      "format": "tar",
+      "size_bytes": 149411840,
+      "file_count": 53,
+      "sha256": "024da4ace13856308a7c4861cc4aace5276bd3c8c24990b081f91dd9be7d4c6f"
+    }
+  },
+  "current_master": {
+    "path": "dist/assets/remotion-six-forces-blue-continuous.mp4",
+    "size_bytes": 12556250,
+    "sha256": "1ce8f4d5e3e07133430d9cc5c30b6443609f9df6de46fbab3f3622de0c632aae",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 864,
+    "seconds": 28.8
+  },
+  "scope_notes": [
+    "No creative changes or paid generations requested for this migration.",
+    "Sites source and published audience are not modified by this GitHub import.",
+    "Historical reports retain their original dates; new verification is recorded separately.",
+    "Credentials, temporary access tokens and signed transport URLs are not part of the project package."
+  ]
+}
